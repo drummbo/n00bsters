@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to noobsters GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/drummbo/n00bsters/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
