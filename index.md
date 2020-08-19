@@ -1,3 +1,5 @@
 ## Welcome to noobsters GitHub Pages
 
-![alt text](/eyechart.jpg "Title")
+<p align="center">
+  <img src="/eyechart.jpg width="450" title="noobsters">
+</p>
